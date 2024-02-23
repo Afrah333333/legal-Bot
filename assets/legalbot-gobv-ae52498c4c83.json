@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "legalbot-gobv",
-  "private_key_id": "ae52498c4c83ff3c19f6c3820a7a164dc42f7de9",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCf1B0lzD51amRg\nJlWxeeb2yEzubhF8suB/armP6V9oqPM8GJ8qdy1hIWb3P5oi0E61fZV/q1Vwe8o8\nyE7wK9s7zyd83YBFO0nGE5G5qNAI2/r80tpkQxTIzo5ZUEyUsktGB8+N1l/YPEap\nUonJilc90pQvDMfA4amjfB8Lc1V4GmJnlDTC9iKE4pMV5C8IIODRxZrQ5EU2iAvP\nHnmJJLAevZf7z/Uz7Wk1+o4VRu2o8cgdvDzgG1pRz8Rnh+/Srzd4dGa56yT4aWw/\neYp+ydmVyr6LgfCjZk+ra/OziCVv0J29PtlVwmtbYdw3BZNldsfWaZNjwDcNU58G\nZXfNPZHhAgMBAAECgf8G8vQhHs29X6ZikFkwk41UXG3lGqEsRzza1eY6FpyLyUQw\neLbqW1l8U4qoqI3B0i7j2MGeAL7+EGPJjvo0+0zDpdWPjZeQy7tK1VHT4hZLlkTq\n1CwsEe7vuD6QWwN2h4W3M/wt8K7VJMnDC8ePvGf8JrZf/SOYoLRHSj4/qFApUR33\nFYFzhgrK2OdqyPuF7BmI3jk4sjL0XKaQvA043jCJKr3BuUijiVGv+SV/mwuuRtd4\nV/ErYnf0ITzr/r1/i5M6Zlr8fZ2JId2gm39xQo/xbmkV/B2dkQzCd7aXUYtr6iLe\nQPoaAld5r9gg2LFUR2kwsj6tYyVDCZq31hrgvIkCgYEAzNb1kVoJKDq4zaZLp9A5\nB2r+24v3i+UeI3923XenkV5MZ9cBJ/2Q73hNv+P14CuecxhUX+xy7JHh9or9ZXe9\nWPuTtPEFD0r/qiaBinTJAawPucjEL9vI5sutA5CnykWfp83l5+NyadM/goB5KbBI\nyHSao4idwpQDHZxM/1mtL6kCgYEAx7871cXpnXngACMeIGzCVO4hFsgE+hYQqggO\ndifpE61REbL/UfAyIKT/yKWLU7IYGkDXtQrPWywg2icrQsNKIxP5itAUfjsrwRvS\njqQtVEvBUzQvwewefpFFym7wZsPi1sU4FrJUHwWHKaOYhBQAzOqvBGWsDkWy50Ak\nlspkk3kCgYAdc77lQkvUw/S0ZPe1zkOU5HZ2fL6AF9ZohjhCCaVHSoaz238oD9Za\nCDMtpwpATCVBKTtge2/ewe76cuuSPlA0Th/jwU/X7hGqllTD4pzQJ7wvG0XSF8jg\nHmLnA1KMy8vz5a/r0pEt1Bjqm6xQKS+d2t4tK0R7qKp2BHYxtOQo2QKBgE+V4kFK\nmcokxRtI4rgInWU5e/WXvGPoZrtYemqZfERayfJDX3dGPLLFCyTm0JyIWRIcw9Ve\neT/aVTyWXqY7KU7QppyoS4IAEW7fpwUuZOExTdXY9S5O5deICkad7SsE4VyxN6fT\nZbD2guQUSrBVR/xdhV47JFKLcryw0eNCwNABAoGBAJsbitg+VMI+7SRmbPaB5ErS\n3dRzKei8PaWr7wpOsgKVi5j9t7Rd5XqwqXtBwyu53PtjT6SWhqKQG7+f9j/WkBwl\n5ZfdN8TG/fl3jnnMnCdojjm3on+IEV60HWD+FQv06VVB4wNMwFBj4C8sDfRiYZuq\njZDTE5+PXNm77Ku10Usi\n-----END PRIVATE KEY-----\n",
-  "client_email": "legalbot-129@legalbot-gobv.iam.gserviceaccount.com",
-  "client_id": "103080748740842843210",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/legalbot-129%40legalbot-gobv.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+your json file
