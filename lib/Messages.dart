@@ -56,7 +56,7 @@ class _FlutterFactsChatBotState extends State<FlutterFactsChatBot> {
     _textController.clear();
 
     try {
-      AuthGoogle authGoogle = await AuthGoogle(fileJson: "assets/legalbot-gobv-ae52498c4c83.json").build();
+      AuthGoogle authGoogle = await AuthGoogle(fileJson: "add json token").build();
       DialogFlow dialogFlow = DialogFlow(authGoogle: authGoogle, language: Language.english);
       AIResponse response = await dialogFlow.detectIntent(query);
 
